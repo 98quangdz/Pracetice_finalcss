@@ -1,0 +1,37 @@
+.test {
+    width: 100px;
+    height: 100px;
+}
+.box {
+    height: 100px;
+}
+
+
+
+.container marketing {
+
+}
+.container {
+    display: block;
+}
+.row {
+    margin-top:40px ;
+}
+.header {
+    margin-bottom: 60px;
+}
+.container-footer {
+    margin-top: 60px;
+    margin-bottom: 60px;
+    display: flex ;
+    position: relative;
+}
+.float-right {
+    position: absolute;
+    right: 0;
+}
+.float-left {
+    position: absolute;
+    left: 0;
+}
+
